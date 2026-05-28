@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productderify",
+        "uuid": 5495896,
+        "checksum": "1zweko"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
